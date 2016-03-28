@@ -13,8 +13,8 @@ This module returns the number of vowels from a text (string).
 ```js
 import countVowels from 'count-vowels' // or  const countVowels = require('count-vowels')
 
-countVowels('Github has it.') //
-countVowels('Lorem ipsum dolor sit amet, consectetur adipiscing elit.') //
+console.log(countVowels('Github has it.')); // ==> 4
+console.log(countVowels('Lorem ipsum dolor sit amet, consectetur adipiscing elit.')); // ==> 19
 ```
 
 ## Raison d'être
