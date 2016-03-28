@@ -1,4 +1,4 @@
-count-vowels
+count-vowels ![](https://img.shields.io/badge/status-stable-green.svg)
 ----
 
 This module returns the number of vowels from a text (string).
@@ -23,4 +23,4 @@ Trying to recollect the vowels of the alphabet and implementing a count function
 Super Light (5 sloc). No dependencies.
 
 ## License
-MIT © [Mohamed Hayibor](https://github.com/mohamedhayibor)
+![](https://img.shields.io/badge/license-MIT-blue.svg) © [Mohamed Hayibor](https://github.com/mohamedhayibor)

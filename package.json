@@ -12,7 +12,7 @@
   },
   "keywords": ["vowels", "counting", "string", "text"],
   "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mohamedhayibor/count-vowels/issues"
   },
