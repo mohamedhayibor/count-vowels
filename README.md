@@ -1,6 +1,5 @@
 count-vowels ![](https://img.shields.io/badge/status-stable-green.svg)
 ----
-
 This module returns the number of vowels from a text (string).
 
 ## Installation
